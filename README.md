@@ -3,7 +3,6 @@
 - 🌱 I’m currently the basics learning JAVA, JS, HTML, CSS, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? instagram: @mateus_sarts
-- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
